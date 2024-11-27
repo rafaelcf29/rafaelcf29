@@ -12,7 +12,7 @@
 <p align="left">
   Meus links para contato: ⤵️
 </p>
-</p>rlclf@cesar.school<p>
+</p>Email: rlclf@cesar.school<p>
 
 <p align="left">
   <a href="#" title="LinkedIn">
