@@ -1,16 +1,20 @@
-## Hi there 👋
+# READ ME
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**rafaelcf29/rafaelcf29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Me chamo Rafael Fernandes, tenho 18 anos e sou estudante de Ciências da Computação na CESAR School.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  Linguagens: Conhecimento em Python, JavaScript e HTML.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  Meus links para contato: ⤵️
+</p>
+</p>rlclf@cesar.school<p>
+
+<p align="left">
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/rafael-cfernandes" alt="LinkedIn"/></a>
+  
